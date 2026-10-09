@@ -1,0 +1,1 @@
+Coloca aquí una imagen con nombre prueba.jpg para ejecutar main.py.
